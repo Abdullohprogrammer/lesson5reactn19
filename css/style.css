@@ -1,0 +1,451 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.body {
+  background-color: rgb(66, 3, 3);
+}
+
+.header-link {
+  max-width: 100%;
+}
+.header-link a {
+  position: relative;
+  top: -50px;
+  left: 200px;
+  color: white;
+  padding: 0px 40px 0px 0px;
+  text-decoration: none;
+}
+.header-link a img {
+  max-width: 100%;
+}
+.header-link .button {
+  position: relative;
+  max-width: 100%;
+  top: -50px;
+  left: 550px;
+  color: black;
+  font-size: 17px;
+  font-family: Gilroy;
+  font-weight: 700;
+  line-height: 150%;
+  background-color: white;
+  border-radius: 65px;
+  border: none;
+  width: 122px;
+  height: 54px;
+}
+
+header {
+  position: relative;
+  top: 56px;
+}
+
+menu img {
+  max-width: 100%;
+  position: absolute;
+  top: 0;
+  left: 555px;
+}
+menu .style-p1 {
+  position: relative;
+  top: 220px;
+  max-width: 100%;
+  font-family: Gilroy;
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 100%;
+}
+menu .style-p2 {
+  position: relative;
+  top: 210px;
+  color: var(--ff-4-c-0-d, #FF4C0D);
+  font-family: Gilroy;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 120%;
+}
+menu .frame {
+  position: relative;
+  left: 0px;
+  top: 300px;
+  max-width: 100%;
+}
+
+.energiya {
+  position: relative;
+  top: 400px;
+  background-color: white;
+  height: 873px;
+  background-color: rgb(66, 3, 3);
+}
+.energiya .head {
+  position: relative;
+  top: 50px;
+  max-width: 100%;
+  color: white;
+  font-family: Gilroy;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 110%;
+}
+
+.energiya .p1 {
+  max-width: 100%;
+  font-family: Gilroy;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 120%;
+}
+.energiya .p2 {
+  font-family: Gilroy;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: -0.14px;
+}
+
+.skorost {
+  position: absolute;
+  top: 240px;
+}
+
+.energiya .p1 {
+  max-width: 100%;
+  font-family: Gilroy;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 120%;
+}
+.energiya .p2 {
+  font-family: Gilroy;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: -0.14px;
+}
+
+.skorost2 {
+  position: absolute;
+  top: 240px;
+  left: 582px;
+}
+
+.energiya .p1 {
+  max-width: 100%;
+  font-family: Gilroy;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 120%;
+}
+.energiya .p2 {
+  font-family: Gilroy;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: -0.14px;
+}
+
+.skorost3 {
+  position: absolute;
+  left: 942px;
+  top: 240px;
+}
+
+.img23 {
+  flex: 1;
+  margin-top: 280px;
+}
+
+.img24 {
+  flex: 1;
+  margin-left: 50px;
+  margin-top: 180px;
+}
+
+.yarkost {
+  margin-top: 100px;
+}
+.yarkost .w {
+  position: relative;
+  max-width: 100%;
+  left: 150px;
+}
+.yarkost .mi {
+  position: absolute;
+  top: 1100px;
+  left: 300px;
+}
+.yarkost .yer {
+  position: absolute;
+  font-family: Gilroy;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 110%;
+  top: 1250px;
+  left: 300px;
+}
+.yarkost .yer2 {
+  position: absolute;
+  color: white;
+  top: 1400px;
+  left: 300px;
+  font-family: Gilroy;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: -0.14px;
+}
+
+.energiya2 {
+  position: relative;
+  top: 1200px;
+  background-color: rgb(66, 3, 3);
+  height: 750px;
+}
+.energiya2 .d {
+  max-width: 100%;
+  flex: 1;
+}
+.energiya2 .d .dizayn {
+  max-width: 100%;
+  color: #FF4C0D;
+  font-family: Gilroy;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 110%;
+}
+.energiya2 .d .moto {
+  max-width: 100%;
+  padding: 50px 50px 0px 0px;
+}
+.energiya2 .d .moto1 {
+  max-width: 100%;
+  background-color: rgb(44, 43, 43);
+  width: 560px;
+  height: 130px;
+}
+.energiya2 .d .moto1 .pp1 {
+  margin-left: 80px;
+  color: white;
+  font-family: Gilroy;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 120%;
+}
+.energiya2 .d .moto1 .pp2 {
+  margin-left: 80px;
+  color: white;
+  font-family: Gilroy;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: -0.14px;
+}
+
+.d1 {
+  flex: 1;
+  max-width: 100%;
+  margin-top: -540px;
+  margin-left: 700px;
+}
+.d1 .moto2 {
+  position: relative;
+  top: -130px;
+}
+.d1 .pp1 {
+  margin-left: 80px;
+  color: white;
+  font-family: Gilroy;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 120%;
+}
+.d1 .pp2 {
+  margin-left: 80px;
+  color: white;
+  font-family: Gilroy;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: -0.14px;
+}
+
+.energiya3 {
+  position: relative;
+  top: 1250px;
+  height: 1600px;
+  background-color: rgb(66, 3, 3);
+}
+.energiya3 .vash {
+  position: relative;
+  top: 50px;
+  max-width: 100%;
+  color: #FF4C0D;
+  font-family: Gilroy;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 110%;
+}
+
+.ogni1 {
+  max-width: 100%;
+}
+.ogni1 .o {
+  margin-top: 100px;
+  max-width: 100%;
+  color: white;
+  font-family: Gilroy;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 120%;
+}
+.ogni1 .o1 {
+  color: white;
+}
+
+.ogni2 {
+  position: absolute;
+  top: 149px;
+  left: 484px;
+  max-width: 100%;
+}
+.ogni2 .o2 {
+  max-width: 100%;
+  color: white;
+  font-family: Gilroy;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 120%;
+}
+.ogni2 .o3 {
+  color: white;
+  max-width: 100%;
+  font-family: Gilroy;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: -0.14px;
+}
+
+.ogni3 {
+  position: absolute;
+  top: 149px;
+  left: 743px;
+  max-width: 100%;
+}
+.ogni3 .o2 {
+  max-width: 100%;
+  color: white;
+  font-family: Gilroy;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 120%;
+}
+.ogni3 .o3 {
+  color: white;
+  max-width: 100%;
+  font-family: Gilroy;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: -0.14px;
+}
+
+.ogni4 {
+  position: absolute;
+  top: 149px;
+  left: 1000px;
+  max-width: 100%;
+}
+.ogni4 .o2 {
+  max-width: 100%;
+  color: white;
+  font-family: Gilroy;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 120%;
+}
+.ogni4 .o3 {
+  color: white;
+  max-width: 100%;
+  font-family: Gilroy;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: -0.14px;
+}
+
+.rec {
+  max-width: 100%;
+  position: relative;
+  top: 50px;
+}
+
+.mobin {
+  max-width: 100%;
+  position: relative;
+  top: 300px;
+  color: #FF4C0D;
+  font-family: Gilroy;
+  font-size: 45px;
+  font-weight: 500;
+  line-height: 110%;
+}
+
+.mobin2 {
+  position: relative;
+  top: 350px;
+  max-width: 100%;
+  color: white;
+  font-family: Gilroy;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: -0.14px;
+}
+
+.app {
+  max-width: 100%;
+  position: relative;
+  top: 200px;
+}
+
+.app2 {
+  max-width: 100%;
+  position: relative;
+  left: 50px;
+  top: 200px;
+}
+
+.kopiya {
+  max-width: 100%;
+  position: relative;
+  top: 40px;
+  left: 400px;
+}
+
+@media screen and (max-width: 800px) {
+  .header-link {
+    display: none;
+  }
+}
